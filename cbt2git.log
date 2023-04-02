@@ -1,0 +1,11 @@
+2023-04-02 21:45:01.817351 - Initialized conversion of CBT102
+2023-04-02 21:45:01.925341 - Received CBT.V504.FILE102.PDS from FILE102.XMI 
+2023-04-02 21:45:01.928413 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE102.PDS, moved to PDS/$$$#DATE
+2023-04-02 21:45:01.929645 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE102.PDS, moved to PDS/$$NOTE1
+2023-04-02 21:45:01.930857 - Found @FILE102.txt (text/plain) in CBT.V504.FILE102.PDS, moved to PDS/@FILE102
+2023-04-02 21:45:01.932084 - Found JULIAN.txt (text/plain) in CBT.V504.FILE102.PDS, moved to PDS/JULIAN
+2023-04-02 21:45:01.932115 - Found JULOBJ.bin containing application/octet-stream, moved to PDS/JULOBJ
+2023-04-02 21:45:01.934112 - Found REASMLNK.txt (text/plain) in CBT.V504.FILE102.PDS, moved to PDS/REASMLNK
+2023-04-02 21:45:01.935115 - Found REASMLNN.txt (text/plain) in CBT.V504.FILE102.PDS, moved to PDS/REASMLNN
+2023-04-02 21:45:01.936627 - Found TAPESCAN.txt (text/plain) in CBT.V504.FILE102.PDS, moved to PDS/TAPESCAN
+2023-04-02 21:45:01.938177 - Found TAPESC46.txt (text/plain) in CBT.V504.FILE102.PDS, moved to PDS/TAPESC46
